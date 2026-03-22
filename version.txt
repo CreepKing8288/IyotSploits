@@ -1,6 +1,6 @@
 {
     "SoftwareVersion": "3.0",
-    "SoftwareUrl":"",
-    "Status":"False",
-  "Changelog":"[+] New UI\n[+] Discord Login\n[+] Monaco Local Save"
+    "SoftwareUrl":"https://github.com/CreepKing8288/IyotSploits/releases/download/Release/IyotSploits.zip",
+    "Status":"True",
+  "Changelog":"[+] New UI\n[+] Discord Login\n[+] Monaco Local Save\n[+] ReWork"
 }
