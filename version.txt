@@ -1,0 +1,6 @@
+{
+    "SoftwareVersion": "3.0",
+    "SoftwareUrl":"",
+    "Status":"False",
+  "Changelog":"[+] New UI\n[+] Discord Login\n[+] Monaco Local Save"
+}
